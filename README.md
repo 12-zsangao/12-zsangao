@@ -1,6 +1,6 @@
 
 <img align="right" src="https://count.getloli.com/get/@:12-zsangao?theme=rule34">
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+              <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 ## 计算机新人-柳凤祈
 
 大一新生，初入Github喜欢参与一些开源项目的讨论。

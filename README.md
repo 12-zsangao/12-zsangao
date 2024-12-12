@@ -12,5 +12,6 @@
 [![](https://activity-graph.herokuapp.com/graph?username=12-zsangao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![12-zsangao's github stats](https://github-readme-stats.vercel.app/api?username=12-zsangao&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&langs_count=6)     
+

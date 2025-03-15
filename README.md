@@ -15,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&layout=compact&langs_count=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&langs_count=6)     
 
-![我的壁纸](steam://url/CommunityFilePage/2885492021){: style="width:100%;"}

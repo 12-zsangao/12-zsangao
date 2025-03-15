@@ -15,3 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&layout=compact&langs_count=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-zsangao&langs_count=6)     
 
+[![Profile](https://img.shields.io/badge/Dynamic_Profile-FF69B4?style=for-the-badge&logo=github)]
